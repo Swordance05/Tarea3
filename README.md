@@ -1,4 +1,4 @@
-Programacion II - Miercoles - Tarde
+#Programacion II - Miercoles - Tarde
 
 Nombre: Jefferson González Montoya
 
